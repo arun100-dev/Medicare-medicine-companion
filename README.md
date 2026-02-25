@@ -161,7 +161,3 @@ medicine-companion/
 - If you're running this locally and port 5000 is taken, change `PORT` in your `.env` and update the proxy target in `client/vite.config.js` to match.
 
 ---
-
-## License
-
-MIT
